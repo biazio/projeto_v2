@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_this, prefer_collection_literals
+
 class User {
   int _id = -1;
   String _name = "";

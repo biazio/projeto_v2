@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors
+// ignore_for_file: prefer_const_constructors, prefer_typing_uninitialized_variables, use_key_in_widget_constructors, avoid_unnecessary_containers, prefer_is_empty
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -6,7 +6,6 @@ import 'package:projeto_v2/layout/layout.dart';
 import 'package:projeto_v2/logic/authentication/auth_bloc.dart';
 import 'package:projeto_v2/logic/authentication/auth_event.dart';
 import 'package:projeto_v2/logic/authentication/auth_state.dart';
-import 'package:projeto_v2/screens/catalog_screen.dart';
 import 'package:projeto_v2/screens/register_screen.dart';
 
 var username2;

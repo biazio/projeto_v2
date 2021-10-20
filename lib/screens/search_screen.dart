@@ -1,4 +1,4 @@
-// ignore_for_file: use_key_in_widget_constructors, prefer_final_fields, prefer_const_constructors
+// ignore_for_file: use_key_in_widget_constructors, prefer_final_fields, prefer_const_constructors, unnecessary_null_comparison
 
 import 'package:flutter/material.dart';
 import 'package:material_floating_search_bar/material_floating_search_bar.dart';

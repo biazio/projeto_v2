@@ -93,7 +93,6 @@ class Account extends StatelessWidget {
                   )),
         ),
       );
-      return Account();
     });
   }
 }

@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_initializing_formals
+
 import 'package:projeto_v2/model/user.dart';
 
 abstract class UserState {}
